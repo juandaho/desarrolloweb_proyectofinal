@@ -10,8 +10,8 @@
   grid-template-areas: "navegacion" "header" "text_ppal" "items" "footer";
 }
 
-/* Media Queries - Vista Movil */
-@media (min-width: 600px) {
+/* Media Queries - Vista Movil*/
+@media (min-width: 898px) {
   .grid-container {
     grid-template: "navegacion" 1fr "principal" 1fr "items" 1fr "footer" 1fr;
   }
