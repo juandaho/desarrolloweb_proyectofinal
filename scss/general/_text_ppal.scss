@@ -1,0 +1,15 @@
+// Sass de declaración del Grid del texto principal
+
+@import '../utilities/color.scss';
+
+
+.text_ppal {
+
+    grid-area: items;
+    display: flex;
+    color: $colorTextPpal;
+    justify-content: center;
+    align-items: center;
+    font-size:x-large;
+
+}

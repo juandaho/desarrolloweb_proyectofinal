@@ -1,0 +1,9 @@
+// Sass declarando el Grid de Info Items
+
+.infoItems {
+
+    grid-area: items;
+    grid-template-rows: auto;
+    background-color: #f2f2f2;
+
+}
